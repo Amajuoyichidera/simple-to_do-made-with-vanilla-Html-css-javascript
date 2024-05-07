@@ -82,3 +82,8 @@ body {
     text-align: center;
     text-transform: capitalize;
   }
+
+  .complete {
+    text-decoration: line-through;
+    color: grey;
+  }
